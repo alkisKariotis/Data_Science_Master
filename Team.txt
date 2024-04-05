@@ -1,0 +1,40 @@
+# --------- TEAM ---------
+
+Kariotis Alkiviadis: 50%
+Konti Myrto: 50%
+
+
+Alkiviadis and Myrto collaborated closely throughout the duration of the project, 
+leveraging their individual strengths to ensure its successful completion at an optimal level. 
+Each team member took ownership of specific aspects of the application while also contributing collaboratively to shared tasks.
+
+Alkiviadis primarily focused on the implementation of critical components such as the Spark Streaming application (mine.py) 
+responsible for processing transactions and mining blocks. He dedicated significant effort to optimizing the mining process, 
+experimenting with different parallelization techniques to improve performance. 
+He also played a crucial role in setting up and configuring the Kafka environment for streaming block data, 
+ensuring seamless integration between Spark and Kafka components. During this setup, Myrto provided valuable assistance, 
+aiding in configuring the server environment, ensuring compatibility with Spark, and troubleshooting any issues that arose. 
+Together, we established a robust Kafka infrastructure to support the project's requirements. 
+
+Myrto took responsibility for designing and implementing the MongoDB component of the solution, 
+ensuring efficient storage and retrieval of block information for subsequent processing and queries. 
+She spent considerable time fine-tuning the MongoDB database setup and optimizing query performance 
+to handle the blockchain data effectively. She also collaborated closely with Alkiviadis 
+on integrating MongoDB with the Kafka pipeline, ensuring smooth data flow across the system. 
+In addition to her technical contributions, Myrto also took the lead in querying MongoDB, to check the data pipeline and
+retrieve results, ensuring process validity and ease of understanding of the process. 
+
+Both team members regularly communicated through four meetings, each lasting 4-5 hours, to develop the application, 
+share insights, and provide feedback to each other to maintain alignment and ensure consistency across 
+different components of the applications.  
+The team performed two presentation rehearsals, each lasting 20 minutes, to refine their project presentation, 
+ensure coherence, and prepare for any potential questions.
+
+In summary, Alkiviadis and Myrto worked collaboratively and efficiently, with each member taking ownership of specific tasks 
+while also contributing to shared goals. Their combined efforts resulted in the successful development of a robust blockchain 
+analytics solution leveraging Spark, Kafka, and MongoDB technologies.
+
+
+
+
+
